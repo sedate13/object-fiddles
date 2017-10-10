@@ -42,7 +42,7 @@ var favoriteThings ={
 
 //After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
 
-  //Code here
+  //Code heres
 
 favoriteThings.car ="Mustang";
 favoriteThings.brand = "None";
